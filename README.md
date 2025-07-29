@@ -4,7 +4,6 @@ This project is a **frontend clone** of the Amazon India homepage, built using o
 
 ## 🚀 Features
 
-- ✅ Fully responsive layout (if added)
 - 🖼️ Amazon-style navigation bar
 - 🧭 Sidebar and search bar
 - 📦 Product categories
